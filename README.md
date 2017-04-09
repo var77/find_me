@@ -27,5 +27,6 @@ cd find_me/frontend && npm start
 Then go to <a href="http://localhost:3000">http://localhost:3000</a>
 ## Example 
 <img src="https://res.cloudinary.com/just/image/upload/v1491731782/Screenshot_from_2017-04-09_13-45-16_c82cog.png" />
+
 ## Dependencies
 * casperJs - <a href="http://casperjs.org/">Download and installation guide</a>
